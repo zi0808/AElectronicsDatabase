@@ -19,7 +19,7 @@ C# SQL Application Demo
 
 ## What does it do? [기능]
  This app is aimed to simulate "Electronics Repair / Retail Database and Application"."<br>
- [ 전자제품 수리 / 판매점의 업무용 어플리케이션을 상정하여 제작되었습니다. ]
+ [ 전자제품 수리 / 판매점의 업무용 어플리케이션을 상정하여 제작되었습니다. ]<br>
  Functionalities include :
  - Managing Inventory [재고/물품 관리]
  - Managing Credentials of Customers [고객정보 관리]
