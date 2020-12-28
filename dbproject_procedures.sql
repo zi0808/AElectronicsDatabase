@@ -1,11 +1,11 @@
-# 2013112501 김용현
-# 프로젝트용 프로시져 정의
+# Yonghyun Kim
+# Defining Procedures
 
 # ===================================================================================
-# 물품 판매 프로시져
+# Procedure - Sell Products
 # ===================================================================================
 delimiter $$
-drop procedure if exists sell $$ # 있으면 삭제
+drop procedure if exists sell $$ # Delete if exists
 create procedure sell
 (in custid_in integer, in uid_in integer, in quant_in integer, in eid_in integer)
 begin
@@ -34,10 +34,10 @@ begin
 end $$
 delimiter ;
 # ===================================================================================
-# 재고 신청 프로시저
+# Stock Request Procedure
 # ===================================================================================
 delimiter $$
-drop procedure if exists request_stock $$ # 있으면 삭제
+drop procedure if exists request_stock $$ # Delete if Exists
 create procedure request_stock
 (in in_iid integer, in in_quant integer)
 begin

@@ -1,5 +1,5 @@
 # Use my DB
-use s2013112501;
+use elecdb;
 # Set Foreign Key Check to false
 set FOREIGN_KEY_CHECKS = 0;
 # Delete Existing Rows
