@@ -16,6 +16,8 @@ C# SQL Application Demo
   [ 실행파일은 DBProjWF/bin/Debug/DBProjWF.exe 경로에 있습니다. 보통 비주얼 스튜디오의 빌드 경로로 보시면 됩니다. ]
 - Check DB.ini file within the same folder. They are used to define where to connect as SQL server and whether you want to use SSH.<br>
   [ 같은 폴더 내의 DB.ini 를 확인하세요. SQL 서버 및 추가적으로 SSH 연결에 대한 설정이 포함됩니다. ]
+- After running the executable, You'll be presented with login screen. If you have ran all 3 sql files, you can login with ID "1" and your SQL Password as Password.
+  [ 실행 후 로그인 스크린이 나옵니다. 3개의 SQL 파일을 실행한 후라면 직원번호 "1", 그리고 비밀번호에 SQL 비밀번호를 넣어 접속 가능합니다. ]
 
 ## What does it do? [기능]
  This app is aimed to simulate "Electronics Repair / Retail Database and Application"."<br>
