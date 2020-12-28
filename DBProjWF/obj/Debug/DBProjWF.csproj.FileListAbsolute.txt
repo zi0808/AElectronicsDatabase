@@ -1,0 +1,62 @@
+D:\VSProjects\DBProjWF\DBProjWF\bin\Debug\DBProjWF.exe.config
+D:\VSProjects\DBProjWF\DBProjWF\bin\Debug\DBProjWF.exe
+D:\VSProjects\DBProjWF\DBProjWF\bin\Debug\DBProjWF.pdb
+D:\VSProjects\DBProjWF\DBProjWF\obj\Debug\DBProjWF.csprojAssemblyReference.cache
+D:\VSProjects\DBProjWF\DBProjWF\obj\Debug\DBProjWF.Form_Main.resources
+D:\VSProjects\DBProjWF\DBProjWF\obj\Debug\DBProjWF.Form_Stock.resources
+D:\VSProjects\DBProjWF\DBProjWF\obj\Debug\DBProjWF.Properties.Resources.resources
+D:\VSProjects\DBProjWF\DBProjWF\obj\Debug\DBProjWF.csproj.GenerateResource.cache
+D:\VSProjects\DBProjWF\DBProjWF\obj\Debug\DBProjWF.exe
+D:\VSProjects\DBProjWF\DBProjWF\obj\Debug\DBProjWF.pdb
+D:\VSProjects\DBProjWF\DBProjWF\obj\Debug\DBProjWF.AskCredential.resources
+D:\VSProjects\DBProjWF\DBProjWF\bin\Debug\BouncyCastle.Crypto.dll
+D:\VSProjects\DBProjWF\DBProjWF\bin\Debug\Google.Protobuf.dll
+D:\VSProjects\DBProjWF\DBProjWF\bin\Debug\MySql.Data.dll
+D:\VSProjects\DBProjWF\DBProjWF\bin\Debug\Renci.SshNet.dll
+D:\VSProjects\DBProjWF\DBProjWF\bin\Debug\Google.Protobuf.xml
+D:\VSProjects\DBProjWF\DBProjWF\bin\Debug\MySql.Data.xml
+D:\VSProjects\DBProjWF\DBProjWF\bin\Debug\Renci.SshNet.xml
+D:\VSProjects\DBProjWF\DBProjWF\obj\Debug\DBProjWF.csproj.CopyComplete
+D:\VSProjects\DBProjWF\DBProjWF\obj\Debug\DBProjWF.workdetail.resources
+D:\Documents\School\2019-2\멀티미디어데이터베이스\DB 프로젝트\DBProjWF (프로젝트)\DBProjWF\bin\Debug\DBProjWF.exe.config
+D:\Documents\School\2019-2\멀티미디어데이터베이스\DB 프로젝트\DBProjWF (프로젝트)\DBProjWF\bin\Debug\DBProjWF.exe
+D:\Documents\School\2019-2\멀티미디어데이터베이스\DB 프로젝트\DBProjWF (프로젝트)\DBProjWF\bin\Debug\DBProjWF.pdb
+D:\Documents\School\2019-2\멀티미디어데이터베이스\DB 프로젝트\DBProjWF (프로젝트)\DBProjWF\bin\Debug\BouncyCastle.Crypto.dll
+D:\Documents\School\2019-2\멀티미디어데이터베이스\DB 프로젝트\DBProjWF (프로젝트)\DBProjWF\bin\Debug\Google.Protobuf.dll
+D:\Documents\School\2019-2\멀티미디어데이터베이스\DB 프로젝트\DBProjWF (프로젝트)\DBProjWF\bin\Debug\MySql.Data.dll
+D:\Documents\School\2019-2\멀티미디어데이터베이스\DB 프로젝트\DBProjWF (프로젝트)\DBProjWF\bin\Debug\Renci.SshNet.dll
+D:\Documents\School\2019-2\멀티미디어데이터베이스\DB 프로젝트\DBProjWF (프로젝트)\DBProjWF\bin\Debug\Google.Protobuf.xml
+D:\Documents\School\2019-2\멀티미디어데이터베이스\DB 프로젝트\DBProjWF (프로젝트)\DBProjWF\bin\Debug\MySql.Data.xml
+D:\Documents\School\2019-2\멀티미디어데이터베이스\DB 프로젝트\DBProjWF (프로젝트)\DBProjWF\bin\Debug\Renci.SshNet.xml
+D:\Documents\School\2019-2\멀티미디어데이터베이스\DB 프로젝트\DBProjWF (프로젝트)\DBProjWF\obj\Debug\DBProjWF.csprojAssemblyReference.cache
+D:\Documents\School\2019-2\멀티미디어데이터베이스\DB 프로젝트\DBProjWF (프로젝트)\DBProjWF\obj\Debug\DBProjWF.AskCredential.resources
+D:\Documents\School\2019-2\멀티미디어데이터베이스\DB 프로젝트\DBProjWF (프로젝트)\DBProjWF\obj\Debug\DBProjWF.Form_Main.resources
+D:\Documents\School\2019-2\멀티미디어데이터베이스\DB 프로젝트\DBProjWF (프로젝트)\DBProjWF\obj\Debug\DBProjWF.Form_Stock.resources
+D:\Documents\School\2019-2\멀티미디어데이터베이스\DB 프로젝트\DBProjWF (프로젝트)\DBProjWF\obj\Debug\DBProjWF.Properties.Resources.resources
+D:\Documents\School\2019-2\멀티미디어데이터베이스\DB 프로젝트\DBProjWF (프로젝트)\DBProjWF\obj\Debug\DBProjWF.workdetail.resources
+D:\Documents\School\2019-2\멀티미디어데이터베이스\DB 프로젝트\DBProjWF (프로젝트)\DBProjWF\obj\Debug\DBProjWF.csproj.GenerateResource.cache
+D:\Documents\School\2019-2\멀티미디어데이터베이스\DB 프로젝트\DBProjWF (프로젝트)\DBProjWF\obj\Debug\DBProjWF.csproj.CoreCompileInputs.cache
+D:\Documents\School\2019-2\멀티미디어데이터베이스\DB 프로젝트\DBProjWF (프로젝트)\DBProjWF\obj\Debug\DBProjWF.csproj.CopyComplete
+D:\Documents\School\2019-2\멀티미디어데이터베이스\DB 프로젝트\DBProjWF (프로젝트)\DBProjWF\obj\Debug\DBProjWF.exe
+D:\Documents\School\2019-2\멀티미디어데이터베이스\DB 프로젝트\DBProjWF (프로젝트)\DBProjWF\obj\Debug\DBProjWF.pdb
+D:\C# Project\DB\DBProjWF\DBProjWF\bin\Debug\DBProjWF.exe.config
+D:\C# Project\DB\DBProjWF\DBProjWF\bin\Debug\DBProjWF.exe
+D:\C# Project\DB\DBProjWF\DBProjWF\bin\Debug\DBProjWF.pdb
+D:\C# Project\DB\DBProjWF\DBProjWF\bin\Debug\BouncyCastle.Crypto.dll
+D:\C# Project\DB\DBProjWF\DBProjWF\bin\Debug\Google.Protobuf.dll
+D:\C# Project\DB\DBProjWF\DBProjWF\bin\Debug\MySql.Data.dll
+D:\C# Project\DB\DBProjWF\DBProjWF\bin\Debug\Renci.SshNet.dll
+D:\C# Project\DB\DBProjWF\DBProjWF\bin\Debug\Google.Protobuf.xml
+D:\C# Project\DB\DBProjWF\DBProjWF\bin\Debug\MySql.Data.xml
+D:\C# Project\DB\DBProjWF\DBProjWF\bin\Debug\Renci.SshNet.xml
+D:\C# Project\DB\DBProjWF\DBProjWF\obj\Debug\DBProjWF.csprojAssemblyReference.cache
+D:\C# Project\DB\DBProjWF\DBProjWF\obj\Debug\DBProjWF.AskCredential.resources
+D:\C# Project\DB\DBProjWF\DBProjWF\obj\Debug\DBProjWF.Form_Main.resources
+D:\C# Project\DB\DBProjWF\DBProjWF\obj\Debug\DBProjWF.Form_Stock.resources
+D:\C# Project\DB\DBProjWF\DBProjWF\obj\Debug\DBProjWF.Properties.Resources.resources
+D:\C# Project\DB\DBProjWF\DBProjWF\obj\Debug\DBProjWF.workdetail.resources
+D:\C# Project\DB\DBProjWF\DBProjWF\obj\Debug\DBProjWF.csproj.GenerateResource.cache
+D:\C# Project\DB\DBProjWF\DBProjWF\obj\Debug\DBProjWF.csproj.CoreCompileInputs.cache
+D:\C# Project\DB\DBProjWF\DBProjWF\obj\Debug\DBProjWF.csproj.CopyComplete
+D:\C# Project\DB\DBProjWF\DBProjWF\obj\Debug\DBProjWF.exe
+D:\C# Project\DB\DBProjWF\DBProjWF\obj\Debug\DBProjWF.pdb
